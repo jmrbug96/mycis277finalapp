@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Book Recommender
 
-You can use the [editor on GitHub](https://github.com/jmrbug96/mycis277finalapp/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This app lists many books that I personally recommend. The user can select a book in the list and a brief description will be displayed along with a link to where the book can be purchased. It will also say whether or not the book is public domain. If it is, a link will also be displayed to read the book legally online for free.
 
 ### Markdown
 

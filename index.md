@@ -1,6 +1,6 @@
-## Book Recommender
+## Library Book Inquiry
 
-This app lists many books that I personally recommend. The user can select a book in the list and a brief description will be displayed along with a link to where the book can be purchased. It will also say whether or not the book is public domain. If it is, a link will also be displayed to read the book legally online for free.
+An app that can be used to add book information, display stored book information, and delete the file containing the book information. It lists alphabetically by Author or by book title and has options to list only fiction, non-fiction, books that are public domain, or public domain books that have links to a website that has the book file.
 
 ### Markdown
 
